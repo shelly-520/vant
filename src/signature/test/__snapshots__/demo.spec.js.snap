@@ -1,11 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`renders demo correctly 1`] = `
-<div>
-  <div>
-    <div class="van-signature">
-      <canvas class="van-signature__node" width="358" height="198" style="width: 358px; height: 198px;"></canvas>
-    </div>
+<div class="demo-signature">
+  <div class="van-signature">
+    <canvas class="van-signature__node"></canvas>
   </div>
 </div>
 `;
